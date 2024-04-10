@@ -1,15 +1,15 @@
-# Api Bin Checker
+# API Bin Checker
 
-## Maked by [yFxZ](yfxz.xyz)
-- Api desenvolvida para ESTUDO use da forma que bem entender.
-    - Api em PHP.
+## Feito por [yFxZ](https://yfxz.xyz)
+- API desenvolvida para ESTUDO, use da forma que bem entender.
+    - API em PHP.
     - Resposta em JSON.
-    - Api contruida em cima do site [Bincheck](https://bincheck.io).
-- Um poco sobre o desenvolvimento.
-    - Foi feito puxando a *Response*, tinha alternativa de fazer usando Full cURL? Até tinha, porem nenhum payloader responde com os resultados.
+    - API construída em cima do site [Bincheck](https://bincheck.io).
+- Um pouco sobre o desenvolvimento.
+    - Foi feito puxando a *Response*, tinha alternativa de fazer usando Full cURL? Até tinha, porém nenhum payloader responde com os resultados.
 - Como usar?
     - api?yfxz={bin}
-- Use esse exemplo: http://yfxz-bin.x10.mx/
+- Use este exemplo: http://yfxz-bin.x10.mx/
     - Exemplo de resposta:
 ```json
 {
@@ -18,11 +18,12 @@
   "💳 Tipo": "CREDIT",
   "🌟 Nível": "UATP",
   "🏦 Banco": "SHANDONG AIRLINES (SC)",
-  "🌎 Pais": "CHINA",
+  "🌎 País": "CHINA",
   "🌎 Sigla": "CN",
   "💻 Coder": "yFxZ Dev's"
 }
-```
+````
+
 - Exemplo para usar a requisição da api em Pyhon:
 ```python
 import requests
