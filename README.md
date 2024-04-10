@@ -56,3 +56,8 @@ if __name__ == "__main__":
 
 
 ### Acesse [yFxZ Hub](yfxz.store) 🍪
+
+
+<div align="center">
+  <img src="https://media.tenor.com/YcSbUdAyjy4AAAAi/cute-hello-kitty.gif" alt="Hello Kitty GIF">
+</div>
