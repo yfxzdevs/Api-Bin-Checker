@@ -9,7 +9,7 @@
     - Foi feito puxando a *Response*, tinha alternativa de fazer usando Full cURL? Até tinha, porém nenhum payloader responde com os resultados.
 - Como usar?
     - api?yfxz={bin}
-- Use este exemplo: http://yfxz-bin.x10.mx/
+- Use este exemplo: http://yfxz-bin.x10.mx/ (INATIVO)
     - Exemplo de resposta:
 ```json
 {
